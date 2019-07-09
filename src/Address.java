@@ -1,4 +1,4 @@
-public class Address implements BeanContainer{
+public class Address implements Entity {
 
     Sehir sehir;
 

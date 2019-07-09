@@ -1,6 +1,6 @@
 public class Container {
 
-    public BeanContainer get(String bean){
+    public Entity get(String bean){
 
         if("Personel".equals(bean)){
 

@@ -1,5 +1,5 @@
 
-public class Personel implements BeanContainer {
+public class Personel implements Entity {
 
     String Ad;
     String Soyad;

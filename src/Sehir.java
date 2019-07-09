@@ -1,4 +1,4 @@
-public class Sehir implements BeanContainer {
+public class Sehir implements Entity {
 
     int plakaNo;
     String ad;
